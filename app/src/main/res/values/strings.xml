@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProtectProcess</string>
+    <string name="hint">请稍等,正在更新主程序...</string>
+</resources>
